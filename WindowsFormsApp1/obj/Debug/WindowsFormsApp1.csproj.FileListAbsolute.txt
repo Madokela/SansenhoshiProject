@@ -1,9 +1,0 @@
-Z:\SansenhoshiProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
-Z:\SansenhoshiProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
-Z:\SansenhoshiProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
-Z:\SansenhoshiProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
-Z:\SansenhoshiProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MySchool.resources
-Z:\SansenhoshiProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
-Z:\SansenhoshiProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
-Z:\SansenhoshiProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
-Z:\SansenhoshiProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
