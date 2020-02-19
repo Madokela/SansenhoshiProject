@@ -35,3 +35,7 @@
 *.cache
 /bin/Debug/
 /obj/Debug/
+*.pdb
+*.config
+*.resources
+*.txt
